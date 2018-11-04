@@ -5,9 +5,9 @@
 
 ## 投票方法
 - `ZjaTKHiqLV5wsXBAMvqUFKEjAfzbiRGrNz`にOP_RETURN(コメント)とともに少額送金    
-コメント内容は以下に示す`TEXT`を使うこと    
-秘密鍵所有証明:     
+コメント内容は以下に示す`TEXT`を使うこと 
 
+秘密鍵所有証明:     
 ```
 テキスト: nao20010128nao
 署名: TODO
